@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mp-demo/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/mp-demo/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-demo/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/shiro-demo/.mvn/.mvn1.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/src/main/main.iml" filepath="$PROJECT_DIR$/utils/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp-demo/src/main/main1.iml" filepath="$PROJECT_DIR$/mp-demo/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-demo/src/main/main2.iml" filepath="$PROJECT_DIR$/shiro-demo/src/main/main2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mp-demo/mp-demo.iml" filepath="$PROJECT_DIR$/mp-demo/mp-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shiro-demo/shiro-demo.iml" filepath="$PROJECT_DIR$/shiro-demo/shiro-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp-demo/src/test/test.iml" filepath="$PROJECT_DIR$/mp-demo/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-demo/src/test/test1.iml" filepath="$PROJECT_DIR$/shiro-demo/src/test/test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
     </modules>
   </component>
